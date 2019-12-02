@@ -1,5 +1,5 @@
 package com.tedu;
 
-public class lzl {
+public class lzl { 
 
 }
